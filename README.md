@@ -8,7 +8,7 @@ Copyright (c) 2016-2019, Stanislav Zhukov & David Cernat
 
 TES3MP is a project adding multiplayer functionality to [OpenMW](https://github.com/OpenMW/openmw), an open-source game engine that supports playing "The Elder Scrolls III: Morrowind" by Bethesda Softworks.
 
-* TES3MP version: 0.7.0-alpha
+* TES3MP version: 0.7.0-beta
 * OpenMW version: 0.44.0
 * License: GPLv3 (see [LICENSE](https://github.com/TES3MP/openmw-tes3mp/blob/master/LICENSE) for more information)
 
